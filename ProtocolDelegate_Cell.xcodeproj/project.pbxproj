@@ -16,6 +16,8 @@
 		DFFAEE6C2951B42B00C309FF /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAEE6B2951B42B00C309FF /* MovieTableViewCell.swift */; };
 		DFFAEE712951D40D00C309FF /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAEE6F2951D40D00C309FF /* CustomTableViewCell.swift */; };
 		DFFAEE722951D40D00C309FF /* CustomTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = DFFAEE702951D40D00C309FF /* CustomTableViewCell.xib */; };
+		DFFAEE742952201C00C309FF /* DisplayValueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAEE732952201C00C309FF /* DisplayValueViewController.swift */; };
+		DFFAEE762952203000C309FF /* InsertValueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFFAEE752952203000C309FF /* InsertValueViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		DFFAEE6B2951B42B00C309FF /* MovieTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
 		DFFAEE6F2951D40D00C309FF /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		DFFAEE702951D40D00C309FF /* CustomTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CustomTableViewCell.xib; sourceTree = "<group>"; };
+		DFFAEE732952201C00C309FF /* DisplayValueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayValueViewController.swift; sourceTree = "<group>"; };
+		DFFAEE752952203000C309FF /* InsertValueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertValueViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				DFFAEE6B2951B42B00C309FF /* MovieTableViewCell.swift */,
 				DFFAEE6F2951D40D00C309FF /* CustomTableViewCell.swift */,
 				DFFAEE702951D40D00C309FF /* CustomTableViewCell.xib */,
+				DFFAEE732952201C00C309FF /* DisplayValueViewController.swift */,
+				DFFAEE752952203000C309FF /* InsertValueViewController.swift */,
 			);
 			path = ProtocolDelegate_Cell;
 			sourceTree = "<group>";
@@ -152,6 +158,8 @@
 				DFFAEE712951D40D00C309FF /* CustomTableViewCell.swift in Sources */,
 				DFFAEE582951AD1A00C309FF /* AppDelegate.swift in Sources */,
 				DFFAEE6C2951B42B00C309FF /* MovieTableViewCell.swift in Sources */,
+				DFFAEE742952201C00C309FF /* DisplayValueViewController.swift in Sources */,
+				DFFAEE762952203000C309FF /* InsertValueViewController.swift in Sources */,
 				DFFAEE5A2951AD1A00C309FF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
