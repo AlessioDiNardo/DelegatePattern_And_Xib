@@ -66,20 +66,36 @@
 		DFFAEE562951AD1A00C309FF /* ProtocolDelegate_Cell */ = {
 			isa = PBXGroup;
 			children = (
+				DFFAEE78295450FF00C309FF /* SecondExample */,
+				DFFAEE77295450E800C309FF /* FirstExample */,
 				DFFAEE572951AD1A00C309FF /* AppDelegate.swift */,
 				DFFAEE592951AD1A00C309FF /* SceneDelegate.swift */,
-				DFFAEE5B2951AD1A00C309FF /* ViewController.swift */,
 				DFFAEE5D2951AD1A00C309FF /* Main.storyboard */,
 				DFFAEE602951AD1D00C309FF /* Assets.xcassets */,
 				DFFAEE622951AD1D00C309FF /* LaunchScreen.storyboard */,
 				DFFAEE652951AD1D00C309FF /* Info.plist */,
-				DFFAEE6B2951B42B00C309FF /* MovieTableViewCell.swift */,
-				DFFAEE6F2951D40D00C309FF /* CustomTableViewCell.swift */,
 				DFFAEE702951D40D00C309FF /* CustomTableViewCell.xib */,
+			);
+			path = ProtocolDelegate_Cell;
+			sourceTree = "<group>";
+		};
+		DFFAEE77295450E800C309FF /* FirstExample */ = {
+			isa = PBXGroup;
+			children = (
+				DFFAEE6F2951D40D00C309FF /* CustomTableViewCell.swift */,
+				DFFAEE6B2951B42B00C309FF /* MovieTableViewCell.swift */,
+				DFFAEE5B2951AD1A00C309FF /* ViewController.swift */,
+			);
+			path = FirstExample;
+			sourceTree = "<group>";
+		};
+		DFFAEE78295450FF00C309FF /* SecondExample */ = {
+			isa = PBXGroup;
+			children = (
 				DFFAEE732952201C00C309FF /* DisplayValueViewController.swift */,
 				DFFAEE752952203000C309FF /* InsertValueViewController.swift */,
 			);
-			path = ProtocolDelegate_Cell;
+			path = SecondExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

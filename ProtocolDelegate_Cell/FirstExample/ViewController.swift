@@ -24,7 +24,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     // movie details create
     var avengerDetail: MovieInformation = MovieInformation(poster: "avengers-4", name: "Avengers", releaseDate: "3 May 2019")
     var starwarsDetail: MovieInformation = MovieInformation(poster: "star-wars", name: "Star Wars", releaseDate: "20 December 2019")
-    var wonderWomanDetail: MovieInformation = MovieInformation(poster: "wonder-woman", name: "Wonder Woman", releaseDate: "1 November 2019")
+    var wonderWomanDetail: MovieInformation = MovieInformation(poster: "batman", name: "Batman", releaseDate: "1 November 2019")
     
     // attributes for attributed string
     let myAttributes: [NSAttributedString.Key: Any] = [
